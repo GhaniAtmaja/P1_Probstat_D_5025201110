@@ -163,6 +163,10 @@ plot(r)
 ```
 Nilai z-score didapat dari x-mean/sd
 
+plot datanya
+![image](https://user-images.githubusercontent.com/77779184/162626691-29b24469-38b1-440a-be7f-dbc8a907a2ef.png)
+
+
 ### B
 ![image](https://user-images.githubusercontent.com/77779184/162626248-9a7db908-4f64-41d8-9023-cbda3818a929.png)
 
